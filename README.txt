@@ -22,6 +22,12 @@ go into the encoding file it referenced at change encodings away from nonsensica
 then it worked). The CodeXGLUE instructions for utilizing this code can be found here: 
 https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/CodeCompletion-token
 
+*** NOTE: Had to remove CodeCompletion-token from this github push, too many filees and files were too large. 
+Can refer to the above link, but this was a dead end for me and not actually used in the user study. 
 
 
-** Thanks Professor for teaching this course. I enjoyed learning from you. 
+
+
+
+
+~ Thanks Professor for teaching this course. I enjoyed learning from you. ~
