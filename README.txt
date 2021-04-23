@@ -1,5 +1,17 @@
 ######### README FOR AISE - COMS6156 FINAL PROJECT by Dominick DeLucia (dmd2203) ##########
 
+Overview: 
+Running a user study on the usefulness of leading next-token prediction models with a focus on evaluating 
+performance on major logical steps. Leading academic models boast high precision (~75%) on global token prediction
+but real impact is likely much lower due to the non-uniform distribution of importance across tokens. 
+This study was constructed such that various types of python development are examined for each 
+model and their performance compared. 
+
+How To Run: 
+To run the academic models, go into the jupyter notebook and run with the desired code as text. 
+To run the production software - I installed PyCharm and installed Kite and Tabnine 
+(have to swap which is active, as only one can be on at one time) 
+
 
 1. Academic_Model_API_Usage.ipynb - the simple file used to access both academic models
  through the huggingface API. I left some additional exploration code I used for checking
